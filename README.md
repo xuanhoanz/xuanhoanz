@@ -1,5 +1,5 @@
 ### Hi I'm Shane 👋
-I am a Full-stack developer and am a passionate about blogging, sharing knowledge with others. I am learning every day to become a better version of myself. I'm particularly interested in knowledge sharing and love hearing from people, not just about technology, but about everything.
+I am a Full-stack developer. I have almost 2 years of experience about Web developer. I am learning every day to become a better version of myself. I also spend time on travel, reading books & photography.
 
 
 ## 🛠 Tools & Technologies
