@@ -1,4 +1,4 @@
-### Hi I'm Shane 👋
+### Hi I'm Harry 👋
 I am a Full-stack developer and have almost 2 years of experience in PHP. I have basic knowledge of HTML, CSS, & JavaScript. I still learning every day to become a better version of myself. I also spend time on travel, reading books & photography.
 
 
